@@ -1,0 +1,27 @@
+Id;Default
+24;%.1f
+16;%d kgs
+7;%d Kgs in bin
+25;%d kilos
+8;%d Kilos in bin
+20;%d Kilos in MED
+2;ACKNOWLEDGE
+12;Control System ON
+9;CONVEYOR RUNNING
+23;conv_IsNot_Running
+22;conv_IS_running
+3;FILL
+5;Lamp Test
+4;LOAD
+19;MED_VALVE OFF
+21;MED_VALVE ON
+1;OFF
+0;ON
+15;RUNNING
+10;SILO EMPTY
+18;SILO_VALVE OFF
+17;SILO_VALVE ON
+13;SIREN
+14;SIRINA
+11;TRUCK ON RAMP
+6;Wrong Set Point
